@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate backend developer and Computer Science student focused on building robust, scalable, and logic-driven server-side applications. My core expertise lies in designing APIs and managing data workflows using Node.js, Express.js, and MongoDB. Right now, I'm deep-diving into real-time web communication by implementing Socket.io to bridge the gap between instant client-server events and complex state management. I love turning architectural logic into seamless digital experiences and am always looking for ways to optimize system efficiency.
+I am a passionate Full Stack developer and Computer Science student focused on building robust, scalable, and logic-driven server-side applications. My core expertise lies in designing APIs and managing data workflows using Node.js, Express.js, and MongoDB. Right now, I'm deep-diving into real-time web communication by implementing Socket.io to bridge the gap between instant client-server events and complex state management. I love turning architectural logic into seamless digital experiences and am always looking for ways to optimize system efficiency.
 
 
 ## 🌐 Socials:

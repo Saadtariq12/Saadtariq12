@@ -12,9 +12,6 @@ I’m a Full Stack Developer with a strong focus on backend development, buildin
 ![](https://streak-stats.demolab.com/?user=saadtariq12&theme=great-gatsby&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=saadtariq12&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saadtariq12&theme=shadow_red&no-frame=true&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
